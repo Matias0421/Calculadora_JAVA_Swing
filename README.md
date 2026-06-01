@@ -25,7 +25,7 @@ Calculadora de escritorio desarrollada en Java utilizando Swing, con soporte par
 ```text
 
 ```
-
+![Calculadora_JAVA_Swing](CALCU.png)
 ---
 
 ## ⌨️ Controles de teclado
