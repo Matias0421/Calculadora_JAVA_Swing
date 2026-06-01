@@ -22,9 +22,6 @@ Calculadora de escritorio desarrollada en Java utilizando Swing, con soporte par
 
 ## 📸 Vista previa
 
-```text
-
-```
 ![Calculadora_JAVA_Swing](CALCU.png)
 ---
 
