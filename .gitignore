@@ -1,0 +1,35 @@
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Archivos ejecutables
+*.exe
+
+# Carpeta de Java portable (pesada)
+jre/
+
+# Carpetas de compilación
+bin/
+build/
+dist/
+Output/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Instaladores
+setup*.exe
+mysetup.exe
